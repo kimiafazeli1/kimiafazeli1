@@ -12,9 +12,9 @@
   <a href="mailto:kfazeli@ncsu.edu"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail"></a>
 </p>
 
-This is my university github account: 🖥️ [GitHub](https://github.ncsu.edu/kfazeli)
+## This is my university github account: 🖥️ [GitHub](https://github.ncsu.edu/kfazeli)
 
-This is my website: 🖥️ [Website](https://kimiafazeli1.github.io/)
+## This is my website: 🖥️ [Website](https://kimiafazeli1.github.io/)
 
 ---
 

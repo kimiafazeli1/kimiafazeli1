@@ -13,6 +13,7 @@
 </p>
 
 This is my university github account: 🖥️ [GitHub](https://github.ncsu.edu/kfazeli)
+This is my website: 🖥️ [Website](https://kimiafazeli1.github.io/)
 ---
 
 ## 🔍 **About Me**

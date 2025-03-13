@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/kimiafazeli1"><img src="https://img.shields.io/github/followers/kimiafazeli1?style=social"></a>
   <a href="https://linkedin.com/in/kimia-fazeli-7882b1225"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin"></a>
-  <a href="mailto:kimiafazeli90@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail"></a>
+  <a href="mailto:kfazeli@ncsu.edu"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail"></a>
 </p>
 
 This is my university github account: 🖥️ [GitHub](https://github.ncsu.edu/kfazeli)
@@ -53,6 +53,6 @@ Want to know more? Click below!
 ---
 
 ## 📫 **Contact Me**
-📧 [kimiafazeli90@gmail.com](mailto:kfazeli@ncsu.edu)  
+📧 [kfazeli@ncsu.edu](mailto:kfazeli@ncsu.edu)  
 🔗 [LinkedIn](https://linkedin.com/in/kimia-fazeli-7882b1225)  
 

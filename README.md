@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Kimia Fazeli! 👋</h1>
 
 <p align="center">
-  <strong>Ph.D. Student | AI & Data Science | Intelligent Tutoring Systems</strong>
+  <strong>Ph.D. Student | AI & Data Science | UI development | Intelligent Tutoring Systems</strong>
 </p>
 
 <p align="center">
@@ -12,18 +12,20 @@
   <a href="mailto:kimiafazeli90@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail"></a>
 </p>
 
+This is my university github account: 🖥️ [GitHub](https://github.com/kimiafazeli1)  
 ---
 
 ## 🔍 **About Me**
 - 📖 **Ph.D. student in Computer Science** at **North Carolina State University**  
 - 🔬 Researching **AI-driven tutoring systems, machine learning, and NLP for education**  
-- 🏆 **Published in IEEE, IET, and AI/EdTech conferences**  
-- 📊 **Analyzing 20 years of student learning data** for AI-driven insights  
+- 🏆 **Published in IET, Ethics in Science and Technology journals and electronic commerce and etc. conferences**  
+- 📊 **Analyzed 20 years of student learning data** for AI-driven insights
+- 🔬 Improved UI of an intelligent tutoring system
 - 👨‍🏫 **Teaching Assistant for Operating Systems, Data Structures, and Algorithms**  
 
 ---
 
-## 🤖 **Meet My Chatbot! (Simulated Q&A)**  
+## 👨‍🏫 More about me**  
 Want to know more? Click below!  
 
 <details>
@@ -32,7 +34,7 @@ Want to know more? Click below!
 </details>
 
 <details>
-  <summary><strong>🚀 Q: What projects have you worked on?</strong></summary>
+  <summary><strong>🚀 Q: What are some of the projects that you have worked on?</strong></summary>
   <ul>
     <li>🔹 <strong>Deep Thought Intelligent Tutor</strong>: AI-powered education system</li>
     <li>🔹 <strong>Flashcard Generator</strong>: NLP-based tool to create learning materials</li>
@@ -42,32 +44,8 @@ Want to know more? Click below!
 
 <details>
   <summary><strong>💡 Q: What programming languages do you use?</strong></summary>
-  <p>My main languages are <strong>Python</strong> and <strong>JavaScript</strong>, but I also work with C++, HTML, and CSS.</p>
+  <p>My main languages are <strong>Python</strong> and <strong>JavaScript</strong>, but I also work with C++ </p>
 </details>
-
----
-
-## 🛠 **Tech Stack**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,tensorflow,pytorch,mysql,github,git,linux,latex" alt="Tech stack">
-</p>
-
----
-
-## 📈 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kimiafazeli1&theme=dark" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimiafazeli1&show_icons=true&theme=dark" alt="GitHub Stats">
-</p>
-
----
-
-## 📚 **Recent Blog Posts**
-<!-- BLOG-POST-LIST:START -->
-- 📝 [How AI is Transforming Education](https://example.com)
-- 🔍 [Using NLP to Improve Student Learning](https://example.com)
-- 🚀 [Building an AI-Powered Tutor](https://example.com)
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -76,10 +54,3 @@ Want to know more? Click below!
 🔗 [LinkedIn](https://linkedin.com/in/kimia-fazeli-7882b1225)  
 🖥️ [GitHub](https://github.com/kimiafazeli1)  
 
----
-
-### 🎯 **Fun Fact:**
-```python
-def fun_fact():
-    return "I analyze 20+ years of student learning data using AI! 📊"
-print(fun_fact())

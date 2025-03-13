@@ -52,5 +52,4 @@ Want to know more? Click below!
 ## 📫 **Contact Me**
 📧 [kimiafazeli90@gmail.com](mailto:kimiafazeli90@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/kimia-fazeli-7882b1225)  
-🖥️ [GitHub](https://github.com/kimiafazeli1)  
 

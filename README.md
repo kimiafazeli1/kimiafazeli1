@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-<h1 align="center">I'm Kimia Fazeli!</h1>
+<h1 align="center">I'm a self-motivated Ph.D. Student</h1>
 
 <p align="center">
-  <strong>Ph.D. Student | AI & Data Science | UI development | Intelligent Tutoring Systems</strong>
+  <strong> AI & Data Science | UI development | Intelligent Tutoring Systems</strong>
 </p>
 
 <p align="center">

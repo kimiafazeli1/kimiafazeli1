@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi, I'm Kimia Fazeli! 👋</h1>
+<h1 align="center">I'm Kimia Fazeli!</h1>
 
 <p align="center">
   <strong>Ph.D. Student | AI & Data Science | UI development | Intelligent Tutoring Systems</strong>

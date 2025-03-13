@@ -53,6 +53,6 @@ Want to know more? Click below!
 ---
 
 ## 📫 **Contact Me**
-📧 [kimiafazeli90@gmail.com](mailto:kimiafazeli90@gmail.com)  
+📧 [kimiafazeli90@gmail.com](mailto:kfazeli@ncsu.edu)  
 🔗 [LinkedIn](https://linkedin.com/in/kimia-fazeli-7882b1225)  
 

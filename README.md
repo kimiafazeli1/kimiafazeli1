@@ -1,6 +1,6 @@
-## Hi there 👋
+## Welcome to my personal gitHub account 👋
 
-<h1 align="center">I'm a self-motivated Ph.D. Student</h1>
+<h1 align="center">I'm a Ph.D. Student</h1>
 
 <p align="center">
   <strong> AI & Data Science | UI development | Intelligent Tutoring Systems</strong>
@@ -11,6 +11,7 @@
   <a href="https://linkedin.com/in/kimia-fazeli-7882b1225"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin"></a>
   <a href="mailto:kfazeli@ncsu.edu"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail"></a>
 </p>
+
 
 ## This is my university github account: 🖥️ [GitHub](https://github.ncsu.edu/kfazeli)
 

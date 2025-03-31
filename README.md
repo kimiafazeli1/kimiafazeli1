@@ -1,6 +1,6 @@
 ## Welcome to my personal gitHub account 👋
 
-<h1 align="center">I'm a Ph.D. Student</h1>
+<h1 align="center">I'm a Computer Science Ph.D. Candidate</h1>
 
 <p align="center">
   <strong> AI & Data Science | UI development | Intelligent Tutoring Systems</strong>

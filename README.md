@@ -43,7 +43,7 @@ Want to know more? Click below!
     <li>🔹 <strong>Deep Thought Intelligent Tutor</strong>: AI-powered education system</li>
     <li>🔹 <strong>Flashcard Generator</strong>: NLP-based tool to create learning materials</li>
     <li>🔹 <strong>AI-Powered Calorie Tracker</strong>: A personalized fitness tracking app</li>
-    https://github.com/tran4code/calorieApp_server/assets/113017516/da68ae23-e182-4576-bb02-c42ccd4a1cb9
+    <img src=https://github.com/tran4code/calorieApp_server/blob/main/src/static/img/updated_login_page.png>
   </ul>
 </details>
 

@@ -55,5 +55,6 @@ Want to know more? Click below!
 
 ## 📫 **Contact Me**
 📧 [kfazeli@ncsu.edu](mailto:kfazeli@ncsu.edu)  
-🔗 [LinkedIn](https://linkedin.com/in/kimia-fazeli-7882b1225)  
+🔗 [LinkedIn](https://linkedin.com/in/kimia-fazeli-7882b1225)
+🔗[My University Github account](https://github.ncsu.edu/kfazeli)
 

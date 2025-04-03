@@ -42,12 +42,8 @@ Want to know more? Click below!
   <ul>
     <li>🔹 <strong>Deep Thought Intelligent Tutor</strong>: AI-powered education system</li>
     <li>🔹 <strong>Flashcard Generator</strong>: NLP-based tool to create learning materials</li>
-    # Demo Video
-
-[[Demo video showcasing the most recent updates and features of Burnout](https://youtu.be/mRnTjdv3bZA)]
-# Burn Out 4 new features and improvements
- Please refer to [Demo video](https://github.com/tran4code/calorieApp_server/blob/main/README.md#demo-video), [Documentation.md](https://github.com/tran4code/calorieApp_server/blob/main/docs/DOCUMENTATION.md) and [Changelog.md](https://github.com/tran4code/calorieApp_server/blob/main/docs/CHANGELOG.md) for checking out the new features and improvements in BurnOut 4.0.0.
     <li>🔹 <strong>AI-Powered Calorie Tracker</strong>: A personalized fitness tracking app</li>
+    https://github.com/tran4code/calorieApp_server/assets/113017516/da68ae23-e182-4576-bb02-c42ccd4a1cb9
   </ul>
 </details>
 

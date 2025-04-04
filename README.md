@@ -43,9 +43,9 @@ Want to know more? Click below!
     <li>🔹 <strong>Deep Thought Intelligent Tutor</strong>: AI-powered education system</li>
     <img src="https://github.com/user-attachments/assets/8b1722a8-b956-4957-ae85-2825e4cf067d" width="600">
     <li>🔹 <strong>Flashcard Generator</strong>: NLP-based tool to create learning materials</li>
-    <img src="https://github.com/tran4code/auto_anki/assets/113017516/ca20b1dd-9972-4af1-a883-a665f321b9b6" width="600" />
+    <img src="https://github.com/tran4code/auto_anki/assets/113017516/ca20b1dd-9972-4af1-a883-a665f321b9b6" width="400" />
     <li>🔹 <strong>AI-Powered Calorie Tracker</strong>: A personalized fitness tracking app</li>
-    <img src="https://github.com/tran4code/calorieApp_server/blob/main/src/static/img/updated_login_page.png" width="600">
+    <img src="https://github.com/tran4code/calorieApp_server/blob/main/src/static/img/updated_login_page.png" width="400">
   </ul>
 </details>
 

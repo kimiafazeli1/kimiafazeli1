@@ -42,6 +42,7 @@ Want to know more? Click below!
   <ul>
     <li>🔹 <strong>Deep Thought Intelligent Tutor</strong>: AI-powered education system</li>
     <li>🔹 <strong>Flashcard Generator</strong>: NLP-based tool to create learning materials</li>
+    <img src="https://github.com/tran4code/auto_anki/assets/113017516/ca20b1dd-9972-4af1-a883-a665f321b9b6" width="400" />
     <li>🔹 <strong>AI-Powered Calorie Tracker</strong>: A personalized fitness tracking app</li>
     <img src=https://github.com/tran4code/calorieApp_server/blob/main/src/static/img/updated_login_page.png>
   </ul>
